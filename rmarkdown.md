@@ -1,0 +1,7 @@
+### Rmarkdown file content
+
+Including this as HTML results in a JavaScript error "Uncaught
+TypeError: Cannot read property 'filter' of undefined" when included in
+an R Shiny app that is using the \*DataTable functions from the DT
+package. If you do not see a greeting and a table above showing data
+from the iris dataset then the error has occurred.
